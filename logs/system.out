@@ -1,0 +1,5 @@
+CompilerOracle: exclude jregex/Pretokenizer.next
+Listening for transport dt_socket at address: 53563
+09:52:46,469 INFO  ~ Starting C:\Users\u044228\play-1.2.7.2\desenvolvimento
+09:52:46,868 WARN  ~ You're running Play! in DEV mode
+09:52:46,939 ERROR ~ Could not bind on port 9000
